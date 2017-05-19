@@ -21,7 +21,7 @@ dependencies {
 
 Add your fonts files to `assets/fonts`. All font definitions are relative to this path.
 
-![alt text](https://github.com/AmanChugh/FontiView/blob/master/fonts.png "ScreenShot Of Fonts directory")
+![alt text](https://github.com/AmanChugh/FontiView/blob/master/fonts.png" ScreenShot Of Fonts directory")
 
 
 ### Usage
@@ -44,7 +44,6 @@ Add your fonts files to `assets/fonts`. All font definitions are relative to thi
 ``` 
 
 
-## Usage
 
 ### Add Custom view to set font bind HTML text 
 
