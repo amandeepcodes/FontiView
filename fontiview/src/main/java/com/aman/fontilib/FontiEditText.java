@@ -51,9 +51,15 @@ public class FontiEditText extends AppCompatEditText {
     }
 
     private void init(Context context) {
-        if (mFont != null) {
-            Typeface tf = Typeface.createFromAsset(context.getAssets(), "fonts/" + mFont);
-            setTypeface(tf);
+        try {
+
+            if (mFont != null) {
+                Typeface tf = Typeface.createFromAsset(context.getAssets(), "fonts/" + mFont);
+                setTypeface(tf);
+
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FontiView</string>
+    <string name="html_text"><![CDATA[This is <font color=#FA7C35>HTML </font> Text. <br><br> From XML Layout.]]> </string>
 </resources>
