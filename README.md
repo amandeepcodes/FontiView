@@ -3,9 +3,15 @@ Custom View to add Custom fonts from xml
 FontiViews
 ===========
 
+FontiViews
+===========
+
+
+Use custom fonts to xml layout views.
+
 Are you fed up to set custom fonts to your textviews,Button and EditText or implkementing your HTML code to textview then this library is for you. 
 
-![alt text](https://github.com/AmanChugh/FontiView/blob/master/fontview.png"ScreenShot Of Android device")
+![alt text](https://github.com/AmanChugh/FontiView/blob/master/fontview.png "ScreenShot Of Android device")
 
 ## Getting started
 
@@ -14,14 +20,14 @@ Are you fed up to set custom fonts to your textviews,Button and EditText or impl
 
 ```groovy
 dependencies {
-    compile 'uk.co.chrisjenx:calligraphy:2.3.0'
+    compile 'compile 'com.aman.fontilib:fontilib:1.0.0'
 }
 ```
 ### Add Fonts
 
 Add your fonts files to `assets/fonts`. All font definitions are relative to this path.
 
-![alt text](https://github.com/AmanChugh/FontiView/blob/master/fonts.png" ScreenShot Of Fonts directory")
+![alt text](https://github.com/AmanChugh/FontiView/blob/master/fonts.png "ScreenShot Of Fonts directory")
 
 
 ### Usage
@@ -44,6 +50,7 @@ Add your fonts files to `assets/fonts`. All font definitions are relative to thi
 ``` 
 
 
+## Usage
 
 ### Add Custom view to set font bind HTML text 
 
@@ -89,4 +96,6 @@ Add your fonts files to `assets/fonts`. All font definitions are relative to thi
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
 
