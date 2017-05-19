@@ -3,11 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FontiView.iml" filepath="$PROJECT_DIR$/FontiView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FontiView.iml" filepath="$PROJECT_DIR$/FontiView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontilib/fontilib.iml" filepath="$PROJECT_DIR$/fontilib/fontilib.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontilib/fontilib.iml" filepath="$PROJECT_DIR$/fontilib/fontilib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fontiview/fontiview.iml" filepath="$PROJECT_DIR$/fontiview/fontiview.iml" />
     </modules>
   </component>
 </project>

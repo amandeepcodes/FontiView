@@ -1,1 +1,1 @@
-include ':app', ':fontilib'
+include ':app', ':fontiview'

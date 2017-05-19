@@ -21,6 +21,8 @@ android {
     }
 }
 
+
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
@@ -43,7 +45,7 @@ ext {
     siteUrl = 'https://github.com/AmanChugh/FontiView'
     gitUrl = 'https://github.com/AmanChugh/FontiView.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'amanchugh'
     developerName = 'Aman Deep'
