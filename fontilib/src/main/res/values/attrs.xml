@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="font" format="string" />
+
+
+    <declare-styleable name="FontiTextView">
+        <attr name="font" />
+        <!--<attr name="clear_drawable" format="reference" />-->
+        <attr name="html" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="FontiEditText">
+        <attr name="font" />
+
+        <!--<attr name="clear_drawable" format="reference" />-->
+    </declare-styleable>
+
+    <declare-styleable name="FontiButton">
+        <attr name="font" />
+        <!--<attr name="clear_drawable" format="reference" />-->
+    </declare-styleable>
+
+</resources>
