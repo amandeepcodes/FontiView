@@ -11,8 +11,10 @@ Use custom fonts to xml layout views.
 
 Are you fed up to set custom fonts to your textviews,Button and EditText or implkementing your HTML code to textview then this library is for you. 
 
-![alt text](https://github.com/AmanChugh/FontiView/blob/master/fontview.png "ScreenShot Of Android device" width="350")
 
+<p align="center">
+  <img src="https://github.com/AmanChugh/FontiView/blob/master/fontview.png" width="350"/>
+</p>
 ## Getting started
 
 ### Dependency
