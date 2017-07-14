@@ -85,7 +85,7 @@ Add your fonts files to `assets/fonts`. All font definitions are relative to thi
 
 # Licence
 
-    Copyright 2013 Christopher Jenkins
+    Copyright 2017 Aman Deep
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
